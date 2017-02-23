@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LoginFacebook</string>
+    <string name="facebook_app_id">904165536353089</string>
+    <string name="welcome">Welcome!</string>
+    <string name="ACCOUNT_KIT_CLIENT_TOKEN"></string>
+    <string name="fb_login_protocol_scheme">fb904165536353089</string>
+</resources>
